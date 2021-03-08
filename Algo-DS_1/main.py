@@ -25,7 +25,7 @@ a = [1,3,58,75,95,63]
 
 for i in range(len(a)):
     print(a[i])
-#-----
+#-------------------
 for i in a:
     print(i)
 
@@ -43,7 +43,7 @@ for num in array:
 
 for i in range(len(array),0,-1):
     print(i)
-#---------------
+#-------------------
 
 def reverse(nums):
     #pointing to first item
