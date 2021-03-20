@@ -19,6 +19,7 @@ array = [10.0,3,"Adam",5,36,52]
 
 print(array[:-2]) # last 2 except
 print(array[0:3]) # except 3. element
+print('reverse array with -1', array[::-1]) # reverse it
 
 # elements in array
 a = [1,3,58,75,95,63]
